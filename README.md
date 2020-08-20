@@ -7,6 +7,8 @@ VR Friendly Replacement Button Caps for the Thrustmaster Cougar MFD
 
 # About
 
+![Process 5 Image](Pictures/Process5.png)
+
 I love flying in VR. I also love flying with button boxes and a HOTAS. While the HOTAS is generally VR compatible my trusty Thrustmaster Cougar MFD's are most decidedly NOT. I found it really hard to make sure I was pushing the right buttons so I thought to myself "Hmm, some textured button caps for VR flying would be REALLY nice." I also wanted a 3rd MFD without paying 90 bucks for a pair of them but thats another project. Fortunately my trusty screwdriver and calipers were able to help me gently disassemble the Thrustmaster Cougar's I had and do some exploring. Turns out the guys at TM made some design decisions that made my job REALLY easy. The button caps for the MFD's ended up being little plastic caps floating over a set of silicon button tops. Easy peasy to remove and replicated in your favorite CAD package. A few test prints later and I had VR friendly button caps for the MFD's.
 
 # Instructions
