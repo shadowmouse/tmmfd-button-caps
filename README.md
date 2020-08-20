@@ -1,4 +1,8 @@
-# tmmfd-button-caps
+Thrustmaster Cougar MFD VR Button Cap Replacements
+
+Author: Shadowmouse
+Last Update: 2020-08-20
+
 VR Friendly Replacement Button Caps for the Thrustmaster Cougar MFD
 
 # About
