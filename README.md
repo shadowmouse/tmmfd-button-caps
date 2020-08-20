@@ -15,9 +15,9 @@ I love flying in VR. I also love flying with button boxes and a HOTAS. While the
 
 If you have a Prusa MK3S then you're in luck. In the "Prints" folder there's a g-code file that will get you on your way. Takes about an hour print for 1 set of 20 button caps. If you don't, check out the STL folder for the original files. You'll need to print the following (1 set per MFD so you'll need to print it twice): 
 
-4 x Center.stl
-8 x Flat.stl
-8 x Corner.stl
+- 4 x Center.stl
+- 8 x Flat.stl
+- 8 x Corner.stl
 
 ## Assembly
 
