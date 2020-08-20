@@ -19,12 +19,12 @@ If you have a Prusa MK3S then you're in luck. In the "Prints" folder there's a g
 
 You will need:
 
-1 Small Phillips Head Screw Driver
-1 Small container to hold screws
-1 Small container to hold the original button caps (for storage)
-1 Set of replacement printed button caps.
+- 1 Small Phillips Head Screw Driver
+- 1 Small container to hold screws
+- 1 Small container to hold the original button caps (for storage)
+- 1 Set of replacement printed button caps.
 
--- Steps --
+### -- Steps --
 
 1. Remove all 10 screws from the back of the MFD. Store them in one of the containers. Be careful, these are cheap screws and you WILL strip them if you use too much force. I recommend doing this by hand.
 ![Process 1 Image](Pictures/Process1.png)
